@@ -2,7 +2,7 @@
 
 Udemy course on DataScience and Machine Leaning
 
-[] Numpy
-[] Pandas
-[] Matplotlib
-[] Seaborn
+- [x] Numpy
+- [] Pandas
+- [] Matplotlib
+- [] Seaborn
