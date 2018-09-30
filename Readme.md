@@ -3,6 +3,6 @@
 Udemy course on DataScience and Machine Leaning
 
 - [x] Numpy
-- [] Pandas
-- [] Matplotlib
-- [] Seaborn
+- [x] Pandas
+- [ ] Matplotlib
+- [ ] Seaborn
